@@ -1,0 +1,14 @@
+pkgbase = monkeytui
+	pkgdesc = A Monkeytype-inspired terminal typing application
+	pkgver = 0.1.0
+	pkgrel = 1
+	url = https://github.com/harshrajsachan/MonkeyTui
+	arch = any
+	license = MIT
+	depends = java-runtime>=17
+	source = MonkeyTui.jar::https://github.com/harshrajsachan/MonkeyTui/releases/download/v0.1.0/MonkeyTui.jar
+	source = LICENSE::https://raw.githubusercontent.com/harshrajsachan/MonkeyTui/v0.1.0/LICENSE
+	sha256sums = 43f771d01aa330bb83d7fdae4139398e34e9771e620a2eb51611948fa3c593ba
+	sha256sums = 822426cfb97d2f7270ad6b640e7a4d67862c8854a8fc32ec60f0c50dff01ecd1
+
+pkgname = monkeytui
